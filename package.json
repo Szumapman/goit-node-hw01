@@ -1,0 +1,15 @@
+{
+  "name": "goit-node-hw01",
+  "version": "1.0.0",
+  "description": "GoIT Node.js HW01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paweł Szumański <pawel.szumanski@tuta.io>",
+  "license": "MIT",
+  "type": "commonjs"
+}
